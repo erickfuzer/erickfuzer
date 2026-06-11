@@ -35,7 +35,7 @@ Estudante de TI focado em desenvolvimento web, programando por diversão por enq
 
 | Projeto | Descrição |
 |---|---|
-| [Animated HTML Wallpapers](https://github.com/SEU_USERNAME/SEU_REPO) | Wallpapers animados em HTML e JS puros, compatíveis com Wallpaper Engine |
+| [WallpapersAnimados](https://github.com/erickfuzer/WallpapersAnimados) | Wallpapers animados em HTML e JS puros, compatíveis com Wallpaper Engine |
 
 ---
 
