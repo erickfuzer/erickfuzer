@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=911AF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Estudante+de+TI;HTML%2C+CSS%2C+JavaScript%2C+Bootstrap%2C+PHP" alt="Typing SVG" /></a>
+</p>
+
 ```php
 <?php echo "Hello Word"; ?>
 ```
@@ -8,8 +12,6 @@ Estudante de TI focado em desenvolvimento web, programando por diversão por enq
 
 </div>
 
----
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=911AF7&center=true&width=435&lines=Desenvolvedor+Web;Estudante+de+TI;HTML%2C+CSS%2C+JavaScript%2C+Bootstrap%2C+PHP" alt="Typing SVG" /></a>
 ---
 
 ### 🧑‍💻 Sobre mim
