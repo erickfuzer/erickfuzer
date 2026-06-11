@@ -1,7 +1,7 @@
 <div align="center">
 
 ```php
-<?php echo Hello Word"; ?>
+<?php echo "Hello Word"; ?>
 ```
 
 Estudante de TI focado em desenvolvimento web, programando por diversão por enquanto mas construindo um portfólio aos poucos.
