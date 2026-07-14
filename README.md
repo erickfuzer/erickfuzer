@@ -40,20 +40,3 @@ Estudante de TI focado em desenvolvimento web, programando por diversão por enq
 | Projeto | Descrição |
 |---|---|
 | [WallpapersAnimados](https://github.com/erickfuzer/WallpapersAnimados) | Wallpapers animados em HTML e JS puros, compatíveis com Wallpaper Engine |
-
----
-
-### 📊 Stats
-
-
-
-  <div align="left">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=erickfuzer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-    />
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfuzer&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&locale=pt-br"
-    />
-  </div>
