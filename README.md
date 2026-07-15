@@ -5,7 +5,7 @@
 </a>
 
 ```php
-<?php echo "Hello Word"; ?>
+<?php echo "Hello World"; ?>
 ```
 
 Estudante de TI focado em desenvolvimento web, programando por diversão por enquanto mas construindo um portfólio aos poucos.
