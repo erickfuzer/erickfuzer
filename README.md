@@ -1,14 +1,13 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&duration=4000&pause=200&color=911AF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Estudante+de+TI;HTML%2C+CSS%2C+JavaScript%2C+Bootstrap+e+PHP" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=4000&pause=800&color=911AF7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web;Estudante+de+TI;HTML%2C+CSS%2C+JavaScript%2C+Bootstrap+e+PHP" alt="Desenvolvedor Web · Estudante de TI · HTML, CSS, JavaScript, Bootstrap e PHP" /></a>
 
 ```php
 <?php echo "Hello World"; ?>
 ```
 
-Estudante de TI focado em desenvolvimento web, programando por diversão por enquanto mas construindo um portfólio aos poucos.
+Estudante de TI focado em desenvolvimento web. Por enquanto programo por diversão,<br/>
+mas venho construindo um portfólio aos poucos.
 
 </div>
 
@@ -25,13 +24,9 @@ Estudante de TI focado em desenvolvimento web, programando por diversão por enq
 
 ### 🛠️ Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-
-<br/><br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" alt="HTML, CSS, JavaScript, Bootstrap e PHP" />
+</p>
 
 ---
 
@@ -39,5 +34,7 @@ Estudante de TI focado em desenvolvimento web, programando por diversão por enq
 
 | Projeto | Descrição |
 |---|---|
-| [WallpapersAnimados](https://github.com/erickfuzer/WallpapersAnimados) | Wallpapers animados em HTML e JS puros, compatíveis com Wallpaper Engine |
-| [GeradorDePaletas](https://github.com/erickfuzer/GeradorDePaletas) | Gerador de paleta de cores em HTML, CSS e JS com 5 cores aleatórias |
+| 🌌 [WallpapersAnimados](https://github.com/erickfuzer/WallpapersAnimados) | Wallpapers animados em HTML e JS puros, compatíveis com o Wallpaper Engine |
+| 🎨 [GeradorDePaletas](https://github.com/erickfuzer/GeradorDePaletas) | Gerador de paletas com 5 cores aleatórias, feito em HTML, CSS e JS |
+
+<p align="center"><sub>Mais projetos chegando em breve 🚧</sub></p>
