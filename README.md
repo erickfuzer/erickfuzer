@@ -13,18 +13,18 @@ mas venho construindo um portfólio aos poucos.
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
 
-- 🎓 Estudando TI/Programação em escola técnica no RS
-- 🌱 Aprendendo desenvolvimento web na prática
-- 🖥️ Também curto o lado do hardware, do que acontece dentro da máquina
-- ✈️ Servi na Força Aérea Brasileira, na seção de Navegação e Sistemas
-- 🔨 Sempre com algum projeto experimental em andamento
-- 💬 Pode me chamar pra falar sobre código, tecnologia ou qualquer coisa estranha que você achou na internet
+- Estudando TI/Programação em escola técnica no RS
+- Aprendendo desenvolvimento web na prática
+- Também curto o lado do hardware, do que acontece dentro da máquina
+- Servi na Força Aérea Brasileira, na seção de Navegação e Sistemas
+- Sempre com algum projeto experimental em andamento
+- Pode me chamar pra falar sobre código, tecnologia ou qualquer coisa estranha que você achou na internet
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" alt="HTML, CSS, JavaScript, Bootstrap e PHP" />
@@ -32,11 +32,11 @@ mas venho construindo um portfólio aos poucos.
 
 ---
 
-### 📂 Projetos em destaque
+### Projetos em destaque
 
-| Projeto | Descrição |
-|---|---|
-| 🌠 [Starfield](https://github.com/erickfuzer/Starfield) | Wallpaper animado de céu noturno em HTML e JS puros, personalizável no Wallpaper Engine · [**Testar online ↗**](https://erickfuzer.github.io/Starfield/) |
-| 🎨 [GeradorDePaletas](https://github.com/erickfuzer/GeradorDePaletas) | Gerador de paletas com 5 cores aleatórias, feito em HTML, CSS e JS · [**Testar online ↗**](https://erickfuzer.github.io/GeradorDePaletas/) |
+| Projeto | Descrição | Demo |
+|---|---|---|
+| [Starfield](https://github.com/erickfuzer/Starfield) | Wallpaper de céu noturno para o Wallpaper Engine | [Testar ↗](https://erickfuzer.github.io/Starfield/) |
+| [GeradorDePaletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores aleatórias, com cópia em um clique | [Testar ↗](https://erickfuzer.github.io/GeradorDePaletas/) |
 
-<p align="center"><sub>Mais projetos chegando em breve 🚧</sub></p>
+<p align="center"><sub>Mais projetos chegando em breve</sub></p>
