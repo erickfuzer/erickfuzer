@@ -36,7 +36,7 @@ mas venho construindo um portfólio aos poucos.
 
 | Projeto | Descrição |
 |---|---|
-| 🌌 [WallpapersAnimados](https://github.com/erickfuzer/WallpapersAnimados) | Wallpapers animados em HTML e JS puros, compatíveis com o Wallpaper Engine |
+| 🌠 [Starfield](https://github.com/erickfuzer/Starfield) | Wallpaper animado de céu noturno em HTML e JS puros, personalizável no Wallpaper Engine · [**Testar online ↗**](https://erickfuzer.github.io/Starfield/) |
 | 🎨 [GeradorDePaletas](https://github.com/erickfuzer/GeradorDePaletas) | Gerador de paletas com 5 cores aleatórias, feito em HTML, CSS e JS · [**Testar online ↗**](https://erickfuzer.github.io/GeradorDePaletas/) |
 
 <p align="center"><sub>Mais projetos chegando em breve 🚧</sub></p>
