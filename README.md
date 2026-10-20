@@ -30,6 +30,8 @@ mas venho construindo um portfólio aos poucos.
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" alt="HTML, CSS, JavaScript, Bootstrap e PHP" />
 </p>
 
+**Explorando:** Rust e Tauri
+
 ---
 
 ### Projetos em destaque
