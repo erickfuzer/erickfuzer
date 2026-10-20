@@ -37,6 +37,6 @@ mas venho construindo um portfólio aos poucos.
 | Projeto | Descrição | Demo |
 |---|---|---|
 | [Starfield](https://github.com/erickfuzer/Starfield) | Wallpaper de céu noturno para o Wallpaper Engine | [Testar ↗](https://erickfuzer.github.io/Starfield/) |
-| [GeradorDePaletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores aleatórias, com cópia em um clique | [Testar ↗](https://erickfuzer.github.io/GeradorDePaletas/) |
+| [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores com travas, RGB/HSL e exportação | [Testar ↗](https://erickfuzer.github.io/GeradorDePaletas/) |
 
 <p align="center"><sub>Mais projetos chegando em breve</sub></p>
