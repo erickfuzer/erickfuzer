@@ -2,8 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=4000&pause=800&color=911AF7&center=true&vCenter=true&width=520&lines=Estudante+de+TI;Desenvolvimento+Web;Hardware+e+Computadores;HTML%2C+CSS%2C+JavaScript%2C+Bootstrap+e+PHP" alt="Estudante de TI · Desenvolvimento Web · Hardware e Computadores · HTML, CSS, JavaScript, Bootstrap e PHP" /></a>
 
-php
+```php
 <?php echo "Hello World"; ?>
+```
 
 
 Estudante de TI dividido entre desenvolvimento web e hardware. Por enquanto programo por diversão,<br/>
