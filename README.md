@@ -11,8 +11,8 @@
 ```
 
 
-Estudante de TI dividido entre desenvolvimento web e hardware. Por enquanto programo por diversão,<br/>
-mas venho construindo um portfólio aos poucos.
+Estudante de TI, dividido entre desenvolvimento web e hardware.<br/>
+A web eu aprendo no curso, mas os projetos de verdade acabam saindo em outras linguagens.
 
 </div>
 
@@ -22,28 +22,24 @@ mas venho construindo um portfólio aos poucos.
 
 <a href="https://erickfuzer.github.io/Sirius/"><img src="https://erickfuzer.github.io/Sirius/social-preview.png" alt="Sirius, a IDE que sai da frente do seu código: janela com um arquivo PHP aberto, no tema grafite" width="100%"></a>
 
-**[Sirius](https://erickfuzer.github.io/Sirius/)** é uma IDE nativa para Windows, sem WebView nem Electron, com terminal, Git, autocompletar e depuração de PHP.
+Me irritei com o VS Code, e a minha implicância com tudo que é Electron fez o resto. A **[Sirius](https://erickfuzer.github.io/Sirius/)** é uma IDE nativa para Windows, com terminal, Git, autocompletar e depuração de PHP.
 
 [Site ↗️](https://erickfuzer.github.io/Sirius/) · [Baixar ↗️](https://github.com/erickfuzer/Sirius/releases/latest) · [Código ↗️](https://github.com/erickfuzer/Sirius)
 
 ### Outros projetos
 
-| Projeto | Descrição | Demo |
+| Projeto | Descrição | Link |
 |---|---|---|
-| [Controle do Ar](https://github.com/erickfuzer/ControleDoAr) | Controle do ar-condicionado Samsung na bandeja do Windows | [Compilar ↗️](https://github.com/erickfuzer/ControleDoAr#como-compilar) |
-| [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores com travas, RGB/HSL e exportação | [Testar ↗️](https://erickfuzer.github.io/GeradorDePaletas/) |
-
-<p align="center"><sub>Mais projetos chegando em breve</sub></p>
+| [Controle do Ar](https://github.com/erickfuzer/ControleDoAr) | Controla o ar-condicionado Samsung pela bandeja do Windows | [Compilar ↗️](https://github.com/erickfuzer/ControleDoAr#como-compilar) |
+| [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Gera paletas de 5 cores, com travas e exportação em PNG e CSS | [Testar ↗️](https://erickfuzer.github.io/GeradorDePaletas/) |
 
 ---
 
 ### Sobre mim
 
-- Estudando TI/Programação em escola técnica no RS
-- Aprendendo desenvolvimento web na prática
-- Também curto o lado do hardware, do que acontece dentro da máquina
+- Estudo em uma escola técnica no RS
+- Também curto hardware e gosto de entender o que acontece dentro da máquina
 - Servi na Força Aérea Brasileira, na seção de Navegação e Sistemas
-- Sempre com algum projeto experimental em andamento
 - Pode me chamar pra falar sobre código, tecnologia ou qualquer coisa estranha que você achou na internet
 
 ---
@@ -54,8 +50,4 @@ mas venho construindo um portfólio aos poucos.
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" alt="HTML, CSS, JavaScript, Bootstrap e PHP" />
 </p>
 
-*Explorando:* Rust e C#, nos projetos acima
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,cs" alt="Rust e C#" />
-</p>
+É o que eu estudo e sei de verdade. O Rust e o C# dos projetos acima ficam por conta de café e Claude.
