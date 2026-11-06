@@ -39,7 +39,7 @@ mas venho construindo um portfólio aos poucos.
 
 | Projeto | Descrição | Demo |
 |---|---|---|
-| [Sirius](https://github.com/erickfuzer/Sirius) | IDE nativa para Windows, com terminal, Git e autocompletar | [Baixar ↗️](https://github.com/erickfuzer/Sirius/releases/latest) |
+| [Sirius](https://github.com/erickfuzer/Sirius) | IDE nativa para Windows, com terminal, Git, autocompletar e depuração de PHP | [Site ↗️](https://erickfuzer.github.io/Sirius/) · [Baixar ↗️](https://github.com/erickfuzer/Sirius/releases/latest) |
 | [Controle do Ar](https://github.com/erickfuzer/ControleDoAr) | Controle do ar-condicionado Samsung na bandeja do Windows | [Compilar ↗️](https://github.com/erickfuzer/ControleDoAr#como-compilar) |
 | [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores com travas, RGB/HSL e exportação | [Testar ↗️](https://erickfuzer.github.io/GeradorDePaletas/) |
 
