@@ -1,6 +1,10 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=4000&pause=800&color=911AF7&center=true&vCenter=true&width=520&lines=Estudante+de+TI;Desenvolvimento+Web;Hardware+e+Computadores;HTML%2C+CSS%2C+JavaScript%2C+Bootstrap+e+PHP" alt="Estudante de TI · Desenvolvimento Web · Hardware e Computadores · HTML, CSS, JavaScript, Bootstrap e PHP" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-grafite.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
+  <img src="assets/banner-grafite.svg" alt="Erick Fuzer: estudante de TI, desenvolvimento web, hardware e computadores" width="100%">
+</picture>
 
 ```php
 <?php echo "Hello World"; ?>
@@ -11,6 +15,25 @@ Estudante de TI dividido entre desenvolvimento web e hardware. Por enquanto prog
 mas venho construindo um portfólio aos poucos.
 
 </div>
+
+---
+
+### Projeto em destaque
+
+<a href="https://erickfuzer.github.io/Sirius/"><img src="https://erickfuzer.github.io/Sirius/social-preview.png" alt="Sirius, a IDE que sai da frente do seu código: janela com um arquivo PHP aberto, no tema grafite" width="100%"></a>
+
+**[Sirius](https://erickfuzer.github.io/Sirius/)** é uma IDE nativa para Windows, sem WebView nem Electron, com terminal, Git, autocompletar e depuração de PHP.
+
+[Site ↗️](https://erickfuzer.github.io/Sirius/) · [Baixar ↗️](https://github.com/erickfuzer/Sirius/releases/latest) · [Código ↗️](https://github.com/erickfuzer/Sirius)
+
+### Outros projetos
+
+| Projeto | Descrição | Demo |
+|---|---|---|
+| [Controle do Ar](https://github.com/erickfuzer/ControleDoAr) | Controle do ar-condicionado Samsung na bandeja do Windows | [Compilar ↗️](https://github.com/erickfuzer/ControleDoAr#como-compilar) |
+| [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores com travas, RGB/HSL e exportação | [Testar ↗️](https://erickfuzer.github.io/GeradorDePaletas/) |
+
+<p align="center"><sub>Mais projetos chegando em breve</sub></p>
 
 ---
 
@@ -31,16 +54,8 @@ mas venho construindo um portfólio aos poucos.
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" alt="HTML, CSS, JavaScript, Bootstrap e PHP" />
 </p>
 
-*Explorando:* Rust
+*Explorando:* Rust e C#, nos projetos acima
 
----
-
-### Projetos em destaque
-
-| Projeto | Descrição | Demo |
-|---|---|---|
-| [Sirius](https://github.com/erickfuzer/Sirius) | IDE nativa para Windows, com terminal, Git, autocompletar e depuração de PHP | [Site ↗️](https://erickfuzer.github.io/Sirius/) · [Baixar ↗️](https://github.com/erickfuzer/Sirius/releases/latest) |
-| [Controle do Ar](https://github.com/erickfuzer/ControleDoAr) | Controle do ar-condicionado Samsung na bandeja do Windows | [Compilar ↗️](https://github.com/erickfuzer/ControleDoAr#como-compilar) |
-| [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Paletas de 5 cores com travas, RGB/HSL e exportação | [Testar ↗️](https://erickfuzer.github.io/GeradorDePaletas/) |
-
-<p align="center"><sub>Mais projetos chegando em breve</sub></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,cs" alt="Rust e C#" />
+</p>
