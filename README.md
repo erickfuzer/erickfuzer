@@ -30,7 +30,7 @@ Me irritei com o VS Code, e a minha implicância com tudo que é Electron fez o 
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| [Vega](https://github.com/erickfuzer/Vega) | Monta o `autounattend.xml` para instalar o Windows só com o que você usa, direto no navegador | [Testar ↗️](https://erickfuzer.github.io/Vega/) |
+| [Vega](https://github.com/erickfuzer/Vega) | Instala o Windows limpo, sem o bloat de fábrica | [Testar ↗️](https://erickfuzer.github.io/Vega/) |
 | [Controle do Ar](https://github.com/erickfuzer/ControleDoAr) | Controla o ar-condicionado Samsung pela bandeja do Windows | [Compilar ↗️](https://github.com/erickfuzer/ControleDoAr#como-compilar) |
 | [Gerador de Paletas](https://github.com/erickfuzer/GeradorDePaletas) | Gera paletas de 5 cores, com travas e exportação em PNG e CSS | [Testar ↗️](https://erickfuzer.github.io/GeradorDePaletas/) |
 
